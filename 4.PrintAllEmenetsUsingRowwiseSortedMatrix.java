@@ -1,3 +1,5 @@
+// This is the brute force approach
+o(n2)
 class Solution {
     int[][] sortedMatrix(int N, int Mat[][]) {
         // code here
